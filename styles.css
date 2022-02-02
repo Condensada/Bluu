@@ -154,7 +154,7 @@ header {
 .hero {
   width: 100%;
   height: 100vh;
-  background: url("church.jpg") center no-repeat;
+  background: url("1107810.jpg") center no-repeat;
   background-size: cover;
   display: flex;
   align-items: center;
@@ -353,7 +353,7 @@ header {
 
 /*tastefull recipes*/
 .tasteful-recipes {
-  background: url(cube.jpg) center no-repeat;
+  background: url(1108136.jpg) center no-repeat;
   background-size: cover;
 }
 
@@ -378,7 +378,7 @@ header {
 /* The perfect blend*/
 
 .perfect-blend {
-  background: url("mountain.jpg") center no-repeat;
+  background: url("1123012.jpg") center no-repeat;
   background-size: cover;
 }
 
@@ -386,15 +386,18 @@ header {
 
 footer {
   padding: 7.9rem 0;
-  background-color: #121212;
+  background-color: gray;
+  background-image: url("aaaa.jpg");
   color: #fff;
   text-align: center;
   position: relative;
+  text-shadow: 2px 2px black;
 }
 .back-to-top {
   width: 7rem;
   height: 7rem;
-  background-color: #121212;
+  background-color: gray;
+  background-image: url("aaaa.jpg");
   position: absolute;
   top: -3rem;
   left: 50%;
